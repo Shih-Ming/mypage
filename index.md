@@ -18,7 +18,7 @@ My systems have [won](https://vega.github.io/vega-lite/) [awards](https://uwdata
 
 <div class="me" markdown="1">
 <picture>
-  <source srcset='/images/dominik_berlin.webp' type='image/webp' />
+  <!-- <source srcset='/images/dominik_berlin.webp' type='image/webp' /> -->
   <img
     src='/images/dominik_berlin.jpg'
     alt='Dominik Moritz'>
