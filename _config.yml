@@ -1,6 +1,6 @@
 # Site settings
 title: Shih-Ming Huang
-email: ben.smhuang@gmail.com
+email: r09942006@ntu.edu.tw
 description: > # this means to ignore newlines until "baseurl:"
    Professor at Carnegie Mellon University and Research Scientist at Apple. I create interactive data visualization and analysis tools. PhD from University of Washington.
 baseurl: "/mypage" # the subpath of your site, e.g. /blog
