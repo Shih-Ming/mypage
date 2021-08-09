@@ -4,16 +4,12 @@ title: "Home"
 class: home
 ---
 
-# Hi, I'm Dominik Moritz
+# Hi, I'm Shih-Ming Huang
 
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I'm a professor at the [Human-Computer Interaction Institute at Carnegie Mellon University](https://hcii.cmu.edu/) and an ML researcher at [Apple](https://www.apple.com/) <i class="fab fa-apple"></i>. I design and build interactive systems for visualization and analysis. At CMU, I co-lead the [Data Interaction Group](https://dig.cmu.edu/).
-
-I received my PhD from the [Paul G. Allen School](https://www.cs.washington.edu/) at the [University of Washington](https://www.washington.edu/), where I worked with [Jeff Heer](https://homes.cs.washington.edu/~jheer/) and [Bill Howe](https://homes.cs.washington.edu/~billhowe/) in the [Interactive Data Lab](http://idl.cs.washington.edu/) and the [Database Group](https://db.cs.washington.edu/).
-
-My systems have [won](https://vega.github.io/vega-lite/) [awards](https://uwdata.github.io/draco/) at premier academic venues and are used by the [Python](https://altair-viz.github.io) and [JavaScript](https://vega.github.io/vega-lite/) data science communities.
+I'm a master student at the [Advanced Antenna Laboratory](https://shihyuansite.wordpress.com/) at [National Taiwan University](https://www.ntu.edu.tw/english/) and an intern at [Academia Sinica Institute of Astronomy and Astrophysics](https://www.asiaa.sinica.edu.tw/). I am interested in developing novel applications of microwave engineering and specialized at system integration of microwave and baseband circuits.
 </div>
 
 <div class="me" markdown="1">
@@ -29,8 +25,8 @@ My systems have [won](https://vega.github.io/vega-lite/) [awards](https://uwdata
 </div>
 
 </div>
-
-During my first year at UW, I received support from the [Fulbright program](https://en.wikipedia.org/wiki/Fulbright_Program). In 2013, I received my B.S. from [Hasso Plattner Institute](https://hpi.de/). I am a scholar of the [German National Academic Foundation](http://www.studienstiftung.de/). I have worked with the [Open Knowledge Foundation](http://www.okfn.org), [Google Research](https://ai.google/research/), and [Microsoft Research](https://www.microsoft.com/en-us/research/group/vibe/). Details are in my [CV]({{ "/cv/" | relative_url }}).
+<!-- 
+During my first year at UW, I received support from the [Fulbright program](https://en.wikipedia.org/wiki/Fulbright_Program). In 2013, I received my B.S. from [Hasso Plattner Institute](https://hpi.de/). I am a scholar of the [German National Academic Foundation](http://www.studienstiftung.de/). I have worked with the [Open Knowledge Foundation](http://www.okfn.org), [Google Research](https://ai.google/research/), and [Microsoft Research](https://www.microsoft.com/en-us/research/group/vibe/). Details are in my [CV]({{ "/cv/" | relative_url }}). -->
 
 ## Featured Projects
 
