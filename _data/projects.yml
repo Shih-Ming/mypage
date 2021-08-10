@@ -1,3 +1,13 @@
+- title: Trojan Radar
+  url: https://uwdata.github.io/draco
+  code: https://github.com/uwdata/draco
+  paper: /papers/2018-Draco-InfoVis.pdf
+  article: https://medium.com/@uwdata/64ce20287e9d
+  recording: https://vimeo.com/308980888
+  image: trojan.jpg
+  description: "Trojan Radar is a wearable dual band FMCW radar system for collision avoidance. The design won the 1st place of 2020 AP-S Student Design Contest."
+  highlight: 1
+
 - title: Falcon
   url: https://github.com/uwdata/falcon
   code: https://github.com/uwdata/falcon
@@ -30,15 +40,15 @@
   demo: https://uwdata.github.io/vsup/examples/polling.html
   description: "To visualize values and uncertaity together, Michael Correll and I created Value-Suppressing Uncertainty Palettes (VSUPs for short)."
 
-- title: Draco
-  url: https://uwdata.github.io/draco
-  code: https://github.com/uwdata/draco
-  paper: /papers/2018-Draco-InfoVis.pdf
-  article: https://medium.com/@uwdata/64ce20287e9d
-  recording: https://vimeo.com/308980888
-  image: draco.jpg
-  description: "I created Draco, a formal model of visualization design with shareable design guidelines, formal reasoning over the design space, and visualization recommendation."
-  highlight: 1
+# - title: Draco
+#   url: https://uwdata.github.io/draco
+#   code: https://github.com/uwdata/draco
+#   paper: /papers/2018-Draco-InfoVis.pdf
+#   article: https://medium.com/@uwdata/64ce20287e9d
+#   recording: https://vimeo.com/308980888
+#   image: draco.jpg
+#   description: "I created Draco, a formal model of visualization design with shareable design guidelines, formal reasoning over the design space, and visualization recommendation."
+#   highlight: 1
 
 - title: Vega-Lite
   url: https://vega.github.io/vega-lite
