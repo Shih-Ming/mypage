@@ -6,7 +6,7 @@
   description: "Trojan Radar is a wearable dual band FMCW radar system for collision avoidance. The design won the 1st place of 2020 AP-S Student Design Contest."
   highlight: 1
 
-- title: Falcon
+- title: UWB
   url: https://github.com/uwdata/falcon
   code: https://github.com/uwdata/falcon
   demo: https://uwdata.github.io/falcon/flights
