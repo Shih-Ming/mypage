@@ -3,16 +3,16 @@
   video: https://www.youtube.com/watch?v=o_KWvV_8DFA&list=PLZFy8hk6ZJI6j20ShilXSt_TXPlJsTXoi&index=3
   code: https://github.com/uwdata/draco
   image: trojan.jpg
-  description: "Trojan Radar is a wearable dual band FMCW radar system for collision avoidance. The design won the 1st place of 2020 AP-S Student Design Contest."
+  description: "Trojan Radar is a wearable dual band FMCW radar system for collision avoidance. The design won the 1st place of 2020 AP-s Student Design Contest."
   highlight: 1
 
-- title: UWB
+- title: Low-Power UWB LNA
   url: https://github.com/uwdata/falcon
   code: https://github.com/uwdata/falcon
   demo: https://uwdata.github.io/falcon/flights
   paper: /papers/2019-Falcon-CHI.pdf
   image: UWB_LNA.jpg
-  description: "This is an 3-12.25 GHz UWB LNA design with 11.52\u00B1 dB gain on 0.18 \u03BC m technology. "
+  description: "This is an 3-12.25-GHz UWB LNA design with 11.52\u00B11dB gain on 0.18-\u03BCm technology. "
   highlight: 2
 
 - title: Dense Lines
