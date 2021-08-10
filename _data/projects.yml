@@ -11,8 +11,8 @@
   code: https://github.com/uwdata/falcon
   demo: https://uwdata.github.io/falcon/flights
   paper: /papers/2019-Falcon-CHI.pdf
-  image: falcon.jpg
-  description: "Falcon is an interactive system for real-time brushing and linking interactions among multiple visualizations of billion-record datasets."
+  image: UWB_LNA.jpg
+  description: "This is an 3-12.25 GHz UWB LNA design with 11.52\u00B1 dB gain on 0.18 \u03BC m technology. "
   highlight: 2
 
 - title: Dense Lines
