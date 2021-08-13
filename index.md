@@ -9,7 +9,7 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I'm a master student at the [Advanced Antenna Laboratory](https://shihyuansite.wordpress.com/) at [National Taiwan University](https://www.ntu.edu.tw/english/) and an intern at [Academia Sinica Institute of Astronomy and Astrophysics](https://www.asiaa.sinica.edu.tw/). I am interested in developing novel applications of microwave engineering and specialized at system integration of microwave and baseband circuits.
+I'm a master's student at the [Advanced Antenna Laboratory](https://shihyuansite.wordpress.com/) at [National Taiwan University](https://www.ntu.edu.tw/english/) and an intern at [Academia Sinica Institute of Astronomy and Astrophysics](https://www.asiaa.sinica.edu.tw/). I am interested in developing novel applications of microwave engineering and specialized at system integration of microwave and baseband circuits.
 </div>
 
 <div class="me" markdown="1">

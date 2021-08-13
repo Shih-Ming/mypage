@@ -6,7 +6,7 @@
   highlight: 1
 
 - title: Low-Power UWB LNA
-  paper: /papers/MMIC_Final_Report.pdf
+  paper: /papers/2020-MMIC-Final-Report.pdf
   image: UWB_LNA.jpg
   description: "This is an 3-12.25-GHz UWB LNA design with 11.52\u00B11dB gain and <3.8dB NF on 0.18-\u03BCm technology. It only consumes 3.59 mW for normal operation."
   highlight: 2
