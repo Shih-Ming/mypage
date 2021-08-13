@@ -8,7 +8,7 @@
 - title: Low-Power UWB LNA
   paper: papers/2020-MMIC-Final-Report.pdf
   image: UWB_LNA.jpg
-  description: "This is an 3-12.25-GHz ultra-wideband (UWB) low noise amplifier (LNA) design with 11.52\u00B11dB gain and <3.8dB noise figure by 0.18-\u03BCm technology. The power consumption of the deisgn is 3.59 mW. ""
+  description: "This is an 3-12.25-GHz ultra-wideband (UWB) low noise amplifier (LNA) design with 11.52\u00B11dB gain and <3.8dB noise figure by 0.18-\u03BCm technology. The power consumption of the deisgn is 3.59 mW. "
   highlight: 2
 
 - title: Horn Antenna
