@@ -8,11 +8,11 @@
 - title: Low-Power UWB LNA
   paper: papers/2020-MMIC-Final-Report.pdf
   image: UWB_LNA.jpg
-  description: "This is an 3-12.25-GHz UWB LNA design with 11.52\u00B11dB gain and <3.8dB NF on 0.18-\u03BCm technology. It only consumes 3.59 mW for normal operation."
+  description: "This is an 3-12.25-GHz ultra-wideband (UWB) low noise amplifier (LNA) design with 11.52\u00B11dB gain and <3.8dB noise figure by 0.18-\u03BCm technology. The power consumption of the deisgn is 3.59 mW. It is the final project of microwave monolithic integrated circuits (MMIC) course in 2020 fall."
   highlight: 2
 
 - title: Horn Antenna
   paper: papers/2020-Horn-Antenna-Report.pdf
   image: Horn.jpg
-  description: "The DIY 2.2-3.5-GHz ridged horn antenna is the final project of \"Antenna Course\" in 2020 Spring. It has a measured gain up to 10.2 dB, made of acrylic boads and foil."
+  description: "The DIY 2.2-3.5-GHz ridged horn antenna is the final project of \"Antenna Course\" in 2020 spring. It has a measured gain up to 10.2 dB, made of acrylic boads and foil."
   highlight: 3
