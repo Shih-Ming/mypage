@@ -14,5 +14,5 @@
 - title: Horn Antenna
   paper: papers/2020-Horn-Antenna-Report.pdf
   image: Horn.jpg
-  description: "This is an 3-12.25-GHz UWB LNA design with 11.52\u00B11dB gain and <3.8dB NF on 0.18-\u03BCm technology. It only consumes 3.59 mW for normal operation."
+  description: "The DIY 2.2-3.5-GHz ridged horn antenna is the final project of "Antenna Course" in 2020 Spring. It has a measured gain up to 10.2 dB, made of acrylic boads and foil."
   highlight: 3
