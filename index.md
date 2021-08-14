@@ -9,15 +9,14 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I'm a master's student at the [Advanced Antenna Laboratory](https://shihyuansite.wordpress.com/) at [National Taiwan University](https://www.ntu.edu.tw/english/) and an intern at [Academia Sinica Institute of Astronomy and Astrophysics](https://www.asiaa.sinica.edu.tw/). I am interested in developing novel applications of microwave engineering and specialized at system integration of microwave and baseband circuits.
+I'm a master's student at the [Advanced Antenna Laboratory](https://shihyuansite.wordpress.com/) at [National Taiwan University](https://www.ntu.edu.tw/english/) and an intern at [Academia Sinica Institute of Astronomy and Astrophysics](https://www.asiaa.sinica.edu.tw/people/cv.php?i=smhuang). I am interested in developing novel applications of microwave engineering and specialized at system integration of microwave and baseband circuits.
 </div>
 
 <div class="me" markdown="1">
 <picture>
-  <!-- <source srcset='/images/dominik_berlin.webp' type='image/webp' /> -->
   <img
     src= '/mypage/images/ShihMing.jpg'
-    alt='Dominik Moritz'>
+    alt='Shih-Ming Huang'>
 </picture>
 
 {:.no-list}
@@ -25,8 +24,6 @@ I'm a master's student at the [Advanced Antenna Laboratory](https://shihyuansite
 </div>
 
 </div>
-<!-- 
-During my first year at UW, I received support from the [Fulbright program](https://en.wikipedia.org/wiki/Fulbright_Program). In 2013, I received my B.S. from [Hasso Plattner Institute](https://hpi.de/). I am a scholar of the [German National Academic Foundation](http://www.studienstiftung.de/). I have worked with the [Open Knowledge Foundation](http://www.okfn.org), [Google Research](https://ai.google/research/), and [Microsoft Research](https://www.microsoft.com/en-us/research/group/vibe/). Details are in my [CV]({{ "/cv/" | relative_url }}). -->
 
 ## Featured Projects
 
@@ -43,7 +40,16 @@ During my first year at UW, I received support from the [Fulbright program](http
   Show More Projects
 </a>
 
-## Featured Publications
+## Award
+
+<div class="award">
+  {% assign awards = site.data.awards %}
+  {% for item in awards %}
+    {% include award.html%} <br>
+  {% endfor %}
+</div>
+
+## Publications
 
 <div class="featured-publications">
   {% assign sorted_publications = site.publications | sort: 'year' | reverse %}
