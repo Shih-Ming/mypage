@@ -1,13 +1,15 @@
 <div class="project">
   <span class="title">{{ award.title }}</span>
+  <span class="year">{{ award.year }}</span>
   {% if award.url || award.code || award.article || award.paper %}
-    <a href="{{ award.url || award.code || award.article || award.paper }}" class="preview-image" style="background-image: url('{{ "/images/awards/" | append: award.image | relative_url }}')"></a>
+  <a href="{{ award.url || award.code || award.article || award.paper }}" class="preview-image" style="background-image: url('{{ "/images/awards/" | append: award.image | relative_url }}')"></a>
   {% else %}
-    <span class="preview-image" style="background-image: url('{{ "/images/awards/" | append: award.image | relative_url }}')"></span>
+  <span class="preview-image" style="background-image: url('{{ "/images/awards/" | append: award.image | relative_url }}')"></span>
   {% endif %}
-  <p>
-    {{ award.description | markdownify | remove: '<p>' | remove: '</p>' }}
-  </p>
+
+  <br>
+  {{ award.description | markdownify | remove: '<p>' | remove: '</p>' }}
+
   <div class="spacer"></div>
   <div class="links">
     {% if award.article %}

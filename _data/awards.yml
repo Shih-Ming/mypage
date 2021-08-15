@@ -1,18 +1,18 @@
-- title: AP-S Student Design Contest
+- title: 2020 IEEE AP-S Student Design Contest
+  year: 2020
   url: https://www.youtube.com/watch?v=o_KWvV_8DFA&list=PLZFy8hk6ZJI6j20ShilXSt_TXPlJsTXoi&index=3
   video: https://www.youtube.com/watch?v=o_KWvV_8DFA&list=PLZFy8hk6ZJI6j20ShilXSt_TXPlJsTXoi&index=3
-  image: trojan.jpg
+  image: APS_Contest.png
   description: "Trojan Radar is a wearable dual band FMCW radar system for collision avoidance. The design won the 1st place of 2020 AP-s Student Design Contest."
-  highlight: 1
 
-- title: Low-Power UWB LNA
+- title: Outstanding Performance Award of National Taiwan University
+  year: 2020
   paper: papers/2020-MMIC-Final-Report.pdf
-  image: UWB_LNA.jpg
+  image: outstanding.jpg
   description: "This is an 3-12.25-GHz ultra-wideband (UWB) low noise amplifier (LNA) design with 11.52\u00B11dB gain and <3.8dB noise figure by 0.18-\u03BCm technology. The power consumption of the deisgn is 3.59 mW. "
-  highlight: 2
 
-- title: Horn Antenna
+- title: Proferssor Chun-Hsiung Chen Scholarship for Talent Cultivation in Electromagnetics
+  year: 2021
   paper: papers/2020-Horn-Antenna-Report.pdf
-  image: Horn.jpg
+  image: cultivation.jpg
   description: "The DIY 2.2-3.5-GHz ridged horn antenna is the final project of \"Antenna Course\" in 2020 spring. It has a measured gain up to 10.2 dB, made of acrylic boads and foil."
-  highlight: 3
