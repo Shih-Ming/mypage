@@ -1,0 +1,35 @@
+<div class="project">
+  <span class="title">{{ award.title }}</span>
+  {% if award.url || award.code || award.article || award.paper %}
+    <a href="{{ award.url || award.code || award.article || award.paper }}" class="preview-image" style="background-image: url('{{ "/images/awards/" | append: award.image | relative_url }}')"></a>
+  {% else %}
+    <span class="preview-image" style="background-image: url('{{ "/images/awards/" | append: award.image | relative_url }}')"></span>
+  {% endif %}
+  <p>
+    {{ award.description | markdownify | remove: '<p>' | remove: '</p>' }}
+  </p>
+  <div class="spacer"></div>
+  <div class="links">
+    {% if award.article %}
+      <a href="{{ award.article }}"><i class="fas fa-newspaper"></i> Post</a>
+    {% endif %}
+    {% if award.demo %}
+      <a href="{{ award.demo }}"><i class="fas fa-play"></i> Demo</a>
+    {% endif %}
+    {% if award.url %}
+      <a href="{{ award.url }}"><i class="fas fa-link" aria-hidden="true"></i> Website</a>
+    {% endif %}
+    {% if award.code %}
+      <a href="{{ award.code }}"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
+    {% endif %}
+    {% if award.paper %}
+      <a href="{{ award.paper }}"><i class="far fa-file-pdf"></i> Paper</a>
+    {% endif %}
+    {% if award.video %}
+      <a href="{{ award.video }}"><i class="fas fa-film"></i> Video</a>
+    {% endif %}
+    {% if award.recording %}
+      <a href="{{ award.recording }}"><i class="fas fa-video"></i> Recording</a>
+    {% endif %}
+  </div>
+</div>

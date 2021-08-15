@@ -1,25 +1,18 @@
-- name: IEEE VGTC Outstanding Dissertation Award
-  years: 2020
-  description: "For my thesis on \"Interactive Systems for Scalable Visualization and Analysis\"."
-- name: InfoVis Best Paper
-  years: 2018
-  description: "For \"Formalizing Visualization Design Knowledge as Constraints: Actionable and Extensible Models in Draco\"."
-- name: InfoVis Best Paper
-  years: 2016
-  description: "For \"Vega-Lite: A Grammar of Interactive Graphics\"."
-- name: Fulbright Fellowship
-  years: 2013-2014
-  sponsor: Bureau of Educational and Cultural Affairs
-  description: Highly competitive, merit-based grant for international educational exchange for students, scholars, teachers and scientists.
-- name: DAAD Scholarship
-  years: 2013
-  sponsor: German Academic Exchange Service (DAAD)
-  description: Scholarship to study at a North American university for one academic year, covering tuition and living expenses.
-- name: Studienstiftung des Deutschen Volkes
-  years: 2010-2015
-  sponsor: Studienstiftung des Deutschen Volkes, Bonn
-  description: The German National Academic Foundation grants prestigious scholarships to students with outstanding academic achievements. Merit-based grant for B.S. and M.S. studies.
-- name: Hasso Plattner Scholarship
-  years: 2013
-  sponsor: Hasso Plattner Institute, Potsdam
-  description: One-year scholarship awarded to the highest performing graduates of each year.
+- title: AP-S Student Design Contest
+  url: https://www.youtube.com/watch?v=o_KWvV_8DFA&list=PLZFy8hk6ZJI6j20ShilXSt_TXPlJsTXoi&index=3
+  video: https://www.youtube.com/watch?v=o_KWvV_8DFA&list=PLZFy8hk6ZJI6j20ShilXSt_TXPlJsTXoi&index=3
+  image: trojan.jpg
+  description: "Trojan Radar is a wearable dual band FMCW radar system for collision avoidance. The design won the 1st place of 2020 AP-s Student Design Contest."
+  highlight: 1
+
+- title: Low-Power UWB LNA
+  paper: papers/2020-MMIC-Final-Report.pdf
+  image: UWB_LNA.jpg
+  description: "This is an 3-12.25-GHz ultra-wideband (UWB) low noise amplifier (LNA) design with 11.52\u00B11dB gain and <3.8dB noise figure by 0.18-\u03BCm technology. The power consumption of the deisgn is 3.59 mW. "
+  highlight: 2
+
+- title: Horn Antenna
+  paper: papers/2020-Horn-Antenna-Report.pdf
+  image: Horn.jpg
+  description: "The DIY 2.2-3.5-GHz ridged horn antenna is the final project of \"Antenna Course\" in 2020 spring. It has a measured gain up to 10.2 dB, made of acrylic boads and foil."
+  highlight: 3

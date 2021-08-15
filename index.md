@@ -40,14 +40,13 @@ I'm a master's student at the [Advanced Antenna Laboratory](https://shihyuansite
   Show More Projects
 </a>
 
-## Award
-
-<div class="award">
-  {% assign awards = site.data.awards %}
-  {% for item in awards %}
-    {% include award.html%} <br>
-  {% endfor %}
-</div>
+## Awards
+{% assign awards = site.data.awards %}
+{% for award in awards %}
+  <div class="awards">
+    {% include awards.html award = award %} 
+  </div>
+{% endfor %}
 
 ## Publications
 
