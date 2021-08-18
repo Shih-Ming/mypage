@@ -22,12 +22,17 @@
   description: "The scholarship aims to encourage college students to pursue research and career developments in electromagnetic fields by rewarding the students of outstanding performances in
 related academic activities. We are awarded US$ 3,300 scholarship at the banquet of Taiwan Tele- communications Annual Symposium."
 
-- title: Alumni Scholarship for Innovation in Technologies
+- title: Class of 1975 Scholarship for Innovation in Technologies
+  url: https://ntuee1975.github.io/
+  paper: https://ntuee1975.github.io/files/2020%E8%87%BA%E5%A4%A71975%E7%B4%9A%E9%9B%BB%E6%A9%9F%E7%B3%BB%E7%B3%BB%E5%8F%8B%E7%A7%91%E6%8A%80%E7%A0%94%E7%A9%B6%E5%89%B5%E6%96%B0%E7%8D%8E.pdf
   year: 2021
-  description: "The DIY 2.2-3.5-GHz ridged horn antenna is the final project of \"Antenna Course\" in 2020 spring. It has a measured gain up to 10.2 dB, made of acrylic boads and foil."
+  description: "The scholarship is sponsored by the alumni of Department of Electrical Engineering at National Taiwan University. We are awarded for the achievement in international contests 
+  with US$ 3,590 scholarship. "
 
-- title: Dean's List Award
+- title: Dean's List Award of National Taiwan University
   year: 2021
-  paper: papers/2020-Horn-Antenna-Report.pdf
-  image: cultivation.jpg
-  description: "The DIY 2.2-3.5-GHz ridged horn antenna is the final project of \"Antenna Course\" in 2020 spring. It has a measured gain up to 10.2 dB, made of acrylic boads and foil."
+  description: "The Dean's List award is bestowed to the top 5% students of the department in each semester."
+
+- title: Dean's List Award of National Taiwan University
+  year: 2021
+  description: "The Dean's List award is bestowed to the top 5% students of the department in each semester."
