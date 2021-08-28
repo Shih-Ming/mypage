@@ -1,4 +1,9 @@
-{% capture anchor %}{% if pub.id %}{{ pub.id }}{% else %}{{ (pub.title | slugify) }}{% endif %}{% endcapture %}
+{% capture anchor %}
+  {{ (pub.title | slugify) }}
+  {% if pub.status %}
+    {{ pub.status }}
+  {% endif %}
+{% endcapture %}
 
 <div class="publication" data-pub='{{ pub | jsonify | escape }}'>
   <h3 id="{{ anchor }}">{% for award in pub.awards %}<i class="fas fa-{% if award == "Best Paper Award" %}trophy{% else %}award{% endif %} award-icon" title="{{ award }}"></i> {% endfor %}{{ pub.title }}</h3>
@@ -19,6 +24,7 @@
       {{ pub.year }}
     </div>
   {% endif %}
+
 
   {% if pub.description %}
     <p class="description">
