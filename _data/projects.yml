@@ -24,7 +24,7 @@
 
 - title: Biofeedback App on Smartphone
   report: report/2018-Biofeedback-Report.pdf
-  image: biofeedback.jpg
+  image: biofeedback.JPG
   description: "The biofeedback App on the smartphone can retrieve the electrocardiogram (ECG), temperature of fingers, and the rate of breath of the users by the circuits. Based on the collected, the App can guide the user to relax him/herself."
 
 - title: Arduino-Based ASK Modulation/Demodulation System
