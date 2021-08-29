@@ -30,4 +30,4 @@
 - title: Arduino-Based ASK Modulation/Demodulation System
   report: report/2021-Arduino-Based ASK Modulation-Demodulation System.pdf
   image: ASK_System.jpg
-  description: "The project guides students to understand the principles of ASK modulation. Students can observe the effect of ASK modulation on the spectrum and build a ASK demodulation system by Arduino board and microwave components."
+  description: "The project guides students to understand the principles of ASK modulation. Students can observe the effect of ASK modulation on the spectrum and build a ASK demodulation system by Arduino board and microwave components. The system is applied to the teaching of "Electrical Engineering Lab for Electromagnetic Waves" in 2021 Spring.
