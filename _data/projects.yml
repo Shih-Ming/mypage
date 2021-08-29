@@ -2,7 +2,7 @@
   url: https://www.youtube.com/watch?v=o_KWvV_8DFA&list=PLZFy8hk6ZJI6j20ShilXSt_TXPlJsTXoi&index=3
   video: https://www.youtube.com/watch?v=o_KWvV_8DFA&list=PLZFy8hk6ZJI6j20ShilXSt_TXPlJsTXoi&index=3
   image: trojan.jpg
-  description: "Trojan Radar is a wearable dual band FMCW radar system for collision avoidance. The design won the 1st place of 2020 AP-s Student Design Contest."
+  description: "Trojan Radar is a wearable dual band FMCW radar system for collision avoidance. The design won the 1st place of 2020 AP-S Student Design Contest."
   highlight: 1
 
 - title: Low-Power UWB LNA
@@ -29,5 +29,6 @@
 
 - title: Arduino-Based ASK Modulation/Demodulation System
   report: report/2021-Arduino-Based ASK Modulation-Demodulation System.pdf
+  vedio: https://youtube.com/playlist?list=PLYPaM1HUNdDT_y7mNuet6_lqHhEMSo0Sm
   image: ASK_System.jpg
   description: "The project guides students to understand the principles of ASK modulation. Students can observe the effect of ASK modulation on the spectrum and build a ASK demodulation system by Arduino board and microwave components. The system is applied to the teaching of "Electrical Engineering Lab for Electromagnetic Waves" in 2021 Spring.
