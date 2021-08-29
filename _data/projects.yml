@@ -19,5 +19,5 @@
 
 - title: Matlab-Based Antenna Array Optimizer
   report: pptx/Matlab-Based-Antenna-Array-Optimizer.pptx
-  image: Horn.jpg
+  image: arraySim.jpg
   description: "The DIY 2.2-3.5-GHz ridged horn antenna is the final project of \"Antenna Course\" in 2020 spring. It has a measured gain up to 10.2 dB, made of acrylic boads and foil."
