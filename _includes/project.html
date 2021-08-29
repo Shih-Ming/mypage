@@ -25,6 +25,9 @@
     {% if project.paper %}
       <a href= "{{project.paper | absolute_url}}"><i class="far fa-file-pdf"></i> Paper</a>
     {% endif %}
+    {% if project.report %}
+    <a href= "{{project.report | absolute_url}}"><i class="far fa-file-pdf"></i> Report</a>
+    {% endif %}
     {% if project.video %}
       <a href="{{ project.video }}"><i class="fas fa-film"></i> Video</a>
     {% endif %}
