@@ -32,3 +32,12 @@
   video: https://www.youtube.com/watch?v=vRZnqD8S2xU&list=PLYPaM1HUNdDT_y7mNuet6_lqHhEMSo0Sm
   image: ASK_System.jpg
   description: "The project guides students to understand the principles of ASK modulation. Students can observe the effect of ASK modulation on the spectrum and build a ASK demodulation system by Arduino board and microwave components. The system is applied to the teaching of \"Electrical Engineering Lab for Electromagnetic Waves\" in 2021 Spring."
+
+- title: Railgun
+  image: railgun.jpg
+  description: "A railgun uses electromagnetic force to launch high-speed projectiles. The project uses large capacitors to supply an instaneous high current and an Arduino UNO board to push the trigger."
+
+- title: 2-stage OP-Amp
+  report: report/2019-OP-Amp-Report.pdf
+  image: OPA.JPG
+  description: "A 2-stage OP-Amp is designed and simulated by HSPICE for the final project of [\"Analog Integrated Circuits Design\"](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2030800&class=&dpt_code=9010&ser_no=75246&semester=107-2&lang=CH). The design has a open-loop gain 71.4 dB and 80\u00B0 phase margin."
