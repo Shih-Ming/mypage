@@ -57,7 +57,8 @@ My research interest focuses on novel applications of microwave systems. I am cu
 
 {% assign sorted_pubs = site.publications | reverse %}
 
-{% assign types = "Conference|Journal" | split: "|" %}
+<!-- {% assign types = "Conference|Journal" | split: "|" %} -->
+{% assign types = "Conference" | split: "|" %}
 {% for type in types %}
   {% assign counter = 1 %}
   {% for pub in sorted_pubs %}
@@ -143,10 +144,14 @@ My research interest focuses on novel applications of microwave systems. I am cu
 </article>
 {% endfor %}
 
-<h2>Publications</h2>
+<h2>Activities</h2>
 {% for act in site.data.activities %}
-<article class="activites">
-  {% include activity.html act=act%}
+<article>
+  <div class="date-container">
+    <span class="date">{{ act.year }}</span>
+    <strong class="fill"><a href="{{ act.website }}">{{ act.title }}</a></strong>
+    <I>{{ act.position }}</I>
+  </div>
 </article>
 {% endfor %}
 
