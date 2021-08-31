@@ -28,6 +28,9 @@
     {% if award.paper %}
       <a href="{{ award.paper }}"><i class="far fa-file-pdf"></i> Paper</a>
     {% endif %}
+    {% if award.announce %}
+    <a href="{{ award.announce }}"><i class="far fa-file-pdf"></i> Announcement</a>
+  {% endif %}
     {% if award.video %}
       <a href="{{ award.video }}"><i class="fas fa-film"></i> Video</a>
     {% endif %}
