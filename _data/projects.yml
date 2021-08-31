@@ -17,7 +17,7 @@
   description: "The DIY 2.2-3.5-GHz ridged horn antenna is the final project of \"Antenna Course\" in 2020 spring. It has a measured gain up to 10.2 dB, made of acrylic boads and foil."
   highlight: 3
 
-- title: Matlab-Based Antenna Array Optimizer
+- title: Array Optimizer on Matlab
   report: pptx/Matlab-Based-Antenna-Array-Optimizer.pptx
   image: arraySim.jpg
   description: "This is a Matlab-based 2D-finite-element-method solver and optimizer for phased array. The program can solve the electric field of multiple omnidirectional sources, and optimize the performance of the synthezied beam pattern by linear gradient."
@@ -27,11 +27,11 @@
   image: biofeedback.JPG
   description: "The biofeedback App on the smartphone can retrieve the electrocardiogram (ECG), temperature of fingers, and the rate of breath of the users by the circuits. Based on the collected, the App can guide the user to relax him/herself."
 
-- title: Arduino-Based ASK Modulation/Demodulation System
+- title: ASK Comm. Experiment
   report: report/2021-Arduino-Based ASK Modulation-Demodulation System.pdf
   video: https://www.youtube.com/watch?v=vRZnqD8S2xU&list=PLYPaM1HUNdDT_y7mNuet6_lqHhEMSo0Sm
   image: ASK_System.jpg
-  description: "The project guides students to understand the principles of ASK modulation. Students can observe the effect of ASK modulation on the spectrum and build a ASK demodulation system by Arduino board and microwave components. The system is applied to the teaching of \"Electrical Engineering Lab for Electromagnetic Waves\" in 2021 Spring."
+  description: "The experiment guides students to understand the principles of ASK modulation. Students can observe the effect of ASK modulation on the spectrum and build an ASK demodulation system by Arduino UNO board and microwave components. The system is applied to the teaching of \"Electrical Engineering Lab for Electromagnetic Waves\" in 2021 Spring."
 
 - title: Railgun
   image: railgun.jpg
