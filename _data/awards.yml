@@ -4,7 +4,7 @@
   video: https://www.youtube.com/watch?v=o_KWvV_8DFA&list=PLZFy8hk6ZJI6j20ShilXSt_TXPlJsTXoi&index=3
   image: APS_Contest.png
   description: "The topic of 2020 IEEE AP-S Student Design Contest is to propose a setup that can demonstrate properties of radar system in a pratical application and provide educational value.
-  We proposed a <b>dual-band wearable FMCW radar system</b> based on open source platform. The dual-band properties has the potential of power saving while maintaining high resolution around the user,
+  We proposed a <b>dual-band wearable FMCW radar system</b> based on open source platform. The dual-band properties has the potential of power-saving while maintaining high range resolution around the user,
   and the open-source environment provides easy access for users to modify and test the radar signals."
 
 - title: Outstanding Performance Scholarship of National Taiwan University
