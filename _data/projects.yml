@@ -1,5 +1,5 @@
 - title: Spatially-Reconfigurable Phased Arrays (SRPArray)
-  image: DroneArray.jpg
+  image: DroneArray.JPG
   description: "An SRPArray is formed by antenna elements separately carried by multiple unmanned aerial vechicles (UAVs). The reconfigurable spatial arrangment of antenna elements is achieved by <b>high-speed and highly accurate phase synchronization</b> among UAVs, by which an SRPArray can potentially have better deployment flexibility and performance."
   highlight: 1
 
@@ -12,7 +12,7 @@
 
 - title: Phased Array Education (ArrayEd)
   video: https://youtu.be/T_iX2lC9Xsc
-  image: ArrayEd.jpg
+  image: ArrayEd.JPG
   description: "I hosted a <b>phased array training session</b> for master's students in my lab. Within five weeks, each group of trainees can realize an Arduino-controlled transmitting phased array and observe the array's beam pattern from the blinking LEDs on receivers."
   highlight: 3
 
