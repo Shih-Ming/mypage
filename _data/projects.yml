@@ -1,21 +1,30 @@
+- title: Spatially-Reconfigurable Phased Arrays (SRPArray)
+  image: DroneArray.jpg
+  description: "An SRPArray is formed by antenna elements separately carried by multiple unmanned aerial vechicles (UAVs). The reconfigurable spatial arrangment of antenna elements is achieved by <b>high-speed and highly accurate phase synchronization</b> among UAVs, by which an SRPArray can potentially have better deployment flexibility and performance."
+  highlight: 1
+
 - title: Trojan Radar
   url: https://www.ieeeaps.org/15-homepage/511-call-for-submissions-2020-ieee-ap-s-student-design-contest
   video: https://www.youtube.com/watch?v=o_KWvV_8DFA&list=PLZFy8hk6ZJI6j20ShilXSt_TXPlJsTXoi&index=3
   image: trojan.jpg
-  description: "Trojan Radar is a wearable dual band FMCW radar system for collision avoidance. The design won the 1st place of 2020 AP-S Student Design Contest."
-  highlight: 1
+  description: "Trojan Radar is a wearable dual band (915MHz- and 5.8GHz-ISM Band) FMCW radar system for collision avoidance. The dual band system consists of two sets of radar circuits and two dual-band embedded patch antennas. The design won the <b>1st place of 2020 AP-S Student Design Contest</b>."
+  highlight: 2
+
+- title: Phased Array Education (ArrayEd)
+  video: https://youtu.be/T_iX2lC9Xsc
+  image: ArrayEd.jpg
+  description: "I hosted a <b>phased array training session</b> for master's students in my lab. Within five weeks, each group of trainees can realize an Arduino-controlled transmitting phased array and observe the array's beam pattern from the blinking LEDs on receivers."
+  highlight: 3
 
 - title: Low-Power UWB LNA
   report: report/2020-MMIC-Final-Report.pdf
   image: UWB_LNA.jpg
   description: "This is an 3-12.25-GHz ultra-wideband (UWB) low noise amplifier (LNA) design with 11.52\u00B11dB gain and <3.8dB noise figure by 0.18-\u03BCm technology. The power consumption of the deisgn is 3.59 mW. "
-  highlight: 2
 
 - title: Horn Antenna
   report: report/2020-Horn-Antenna-Report.pdf
   image: Horn.jpg
   description: "The DIY 2.2-3.5-GHz ridged horn antenna is the final project of \"Antenna Course\" in 2020 spring. It has a measured gain up to 10.2 dB, made of acrylic boads and foil."
-  highlight: 3
 
 - title: Array Optimizer on Matlab
   report: pptx/Matlab-Based-Antenna-Array-Optimizer.pptx
