@@ -17,7 +17,7 @@ My current research focus is "Spatially-Reconfigurable UAV-Based Phased Arrays."
 <div class="me" markdown="1">
 <picture>
   <img
-    src= '/mypage/images/ShihMing2.jpg'
+    src= '/mypage/images/ShihMing.jpg'
     alt='Shih-Ming Huang'>
 </picture>
 
