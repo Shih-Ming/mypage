@@ -6,6 +6,7 @@
 
 - title: Trojan Radar
   imgLink: https://shih-ming.github.io/mypage/images/awards/trojan.jpg
+  url: https://ieeeaps.org/call-for-submissions-2020-ieee-ap-s-student-design-contest/511
   video: https://www.youtube.com/watch?v=o_KWvV_8DFA&list=PLZFy8hk6ZJI6j20ShilXSt_TXPlJsTXoi&index=3
   image: trojan.jpg
   description: "Trojan Radar is a wearable dual band (915MHz- and 5.8GHz-ISM Band) FMCW radar system for collision avoidance. The dual band system consists of two sets of radar circuits and two dual-band embedded patch antennas. The design won the <b>1st place of 2020 AP-S Student Design Contest</b>."
