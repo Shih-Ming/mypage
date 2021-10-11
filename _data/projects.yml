@@ -1,61 +1,61 @@
 - title: Spatially-Reconfigurable Phased Arrays (SRPArray)
-  url: https://shih-ming.github.io/mypage/images/projects/DroneArray.JPG
+  imgLink: https://shih-ming.github.io/mypage/images/projects/DroneArray.JPG
   image: DroneArray.JPG
   description: "An SRPArray is formed by antenna elements separately carried by multiple unmanned aerial vechicles (UAVs). The reconfigurable spatial arrangment of antenna elements is achieved by <b>high-speed and highly accurate phase synchronization</b> among UAVs, by which an SRPArray can potentially have better deployment flexibility and performance."
   highlight: 1
 
 - title: Trojan Radar
-  url: https://shih-ming.github.io/mypage/images/awards/trojan.jpg
+  imgLink: https://shih-ming.github.io/mypage/images/awards/trojan.jpg
   video: https://www.youtube.com/watch?v=o_KWvV_8DFA&list=PLZFy8hk6ZJI6j20ShilXSt_TXPlJsTXoi&index=3
   image: trojan.jpg
   description: "Trojan Radar is a wearable dual band (915MHz- and 5.8GHz-ISM Band) FMCW radar system for collision avoidance. The dual band system consists of two sets of radar circuits and two dual-band embedded patch antennas. The design won the <b>1st place of 2020 AP-S Student Design Contest</b>."
   highlight: 2
 
 - title: Phased Array Education (ArrayEd)
-  url: https://shih-ming.github.io/mypage/images/projects/ArrayEd.JPG
+  imgLink: https://shih-ming.github.io/mypage/images/projects/ArrayEd.JPG
   video: https://youtu.be/T_iX2lC9Xsc
   image: ArrayEd.JPG
   description: "I hosted a <b>phased array training session</b> for master's students in my lab. Within five weeks, each group of trainees can realize an Arduino-controlled transmitting phased array and observe the array's beam pattern from the blinking LEDs on receivers."
   highlight: 3
 
 - title: Low-Power UWB LNA
-  url: https://shih-ming.github.io/mypage/images/projects/UWB_LNA.jpg
+  imgLink: https://shih-ming.github.io/mypage/images/projects/UWB_LNA.jpg
   report: report/2020-MMIC-Final-Report.pdf
   image: UWB_LNA.jpg
   description: "This is an 3-12.25-GHz ultra-wideband (UWB) low noise amplifier (LNA) design with 11.52\u00B11dB gain and <3.8dB noise figure by 0.18-\u03BCm technology. The power consumption of the deisgn is 3.59 mW. "
 
 - title: Horn Antenna
-  url: https://shih-ming.github.io/mypage/images/projects/Horn.jpg
+  imgLink: https://shih-ming.github.io/mypage/images/projects/Horn.jpg
   report: report/2020-Horn-Antenna-Report.pdf
   image: Horn.jpg
   description: "The DIY 2.2-3.5-GHz ridged horn antenna is the final project of \"Antenna Course\" in 2020 spring. It has a measured gain up to 10.2 dB, made of acrylic boads and foil."
 
 - title: Array Optimizer on Matlab
-  url: https://shih-ming.github.io/mypage/images/projects/arraySim.jpg
+  imgLink: https://shih-ming.github.io/mypage/images/projects/arraySim.jpg
   report: pptx/Matlab-Based-Antenna-Array-Optimizer.pptx
   image: arraySim.jpg
   description: "This is a Matlab-based 2D-finite-element-method solver and optimizer for phased array. The program can solve the electric field of multiple omnidirectional sources, and optimize the performance of the synthezied beam pattern by linear gradient."
 
 - title: Biofeedback App on Smartphone
-  url: https://shih-ming.github.io/mypage/images/projects/biofeedback.JPG
+  imgLink: https://shih-ming.github.io/mypage/images/projects/biofeedback.JPG
   report: report/2018-Biofeedback-Report.pdf
   image: biofeedback.JPG
   description: "The biofeedback App on the smartphone can retrieve the electrocardiogram (ECG), temperature of fingers, and the rate of breath of the users by the circuits. Based on the collected, the App can guide the user to relax him/herself."
 
 - title: ASK Comm. Experiment
-  url: https://shih-ming.github.io/mypage/images/projects/ASK_System.jpg
+  imgLink: https://shih-ming.github.io/mypage/images/projects/ASK_System.jpg
   report: report/2021-Arduino-Based ASK Modulation-Demodulation System.pdf
   video: https://www.youtube.com/watch?v=vRZnqD8S2xU&list=PLYPaM1HUNdDT_y7mNuet6_lqHhEMSo0Sm
   image: ASK_System.jpg
   description: "The experiment guides students to understand the principles of ASK modulation. Students can observe the effect of ASK modulation on the spectrum and build an ASK demodulation system by Arduino UNO board and microwave components. The system is applied to the teaching of \"Electrical Engineering Lab for Electromagnetic Waves\" in 2021 Spring."
 
 - title: Railgun
-  url: https://shih-ming.github.io/mypage/images/projects/railgun.jpg
+  imgLink: https://shih-ming.github.io/mypage/images/projects/railgun.jpg
   image: railgun.jpg
   description: "A railgun uses electromagnetic force to launch high-speed projectiles. The project uses large capacitors to supply an instaneous high current and an Arduino UNO board to push the trigger."
 
 - title: 2-stage OP-Amp
-  url: https://shih-ming.github.io/mypage/images/projects/OPA.JPG
+  imgLink: https://shih-ming.github.io/mypage/images/projects/OPA.JPG
   report: report/2019-OP-Amp-Report.pdf
   image: OPA.JPG
   description: "A 2-stage OP-Amp is designed and simulated by HSPICE for the final project of [\"Analog Integrated Circuits Design\"](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2030800&class=&dpt_code=9010&ser_no=75246&semester=107-2&lang=CH). The design has a open-loop gain 71.4 dB and 80\u00B0 phase margin."

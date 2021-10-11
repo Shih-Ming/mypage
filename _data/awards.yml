@@ -1,6 +1,7 @@
 - title: 2020 IEEE AP-S Student Design Contest -- 1<sup>st</sup> Place
   year: 2020
-  url: https://shih-ming.github.io/mypage/images/awards/APS_Contest.png
+  imgLink: https://shih-ming.github.io/mypage/images/awards/APS_Contest.png
+  url: https://ieeeaps.org/call-for-submissions-2020-ieee-ap-s-student-design-contest/511
   video: https://www.youtube.com/watch?v=o_KWvV_8DFA&list=PLZFy8hk6ZJI6j20ShilXSt_TXPlJsTXoi&index=3
   image: APS_Contest.png
   description: "The topic of 2020 IEEE AP-S Student Design Contest is to propose a setup that can demonstrate properties of radar system in a pratical application and provide educational value.
@@ -9,7 +10,8 @@
 
 - title: Outstanding Performance Scholarship of National Taiwan University
   year: 2020
-  url: https://shih-ming.github.io/mypage/images/awards/outstanding.jpg
+  imgLink: https://shih-ming.github.io/mypage/images/awards/outstanding.jpg
+  url: https://advisory.ntu.edu.tw/CMS/ScholarshipDetail?id=6484
   announce: https://advisory.ntu.edu.tw/CMS/GetScholarshipFile/3511
   image: outstanding.jpg
   description: "The scholarship is for students who have won the honor for National Taiwan University (NTU) by outstanding achievements in the academy or contest. The winner team can 
@@ -17,7 +19,8 @@
 
 - title: Proferssor Chun-Hsiung Chen Scholarship for Talent Cultivation in Electromagnetics
   year: 2021
-  url: https://shih-ming.github.io/mypage/images/awards/cultivation.jpg
+  imgLink: https://shih-ming.github.io/mypage/images/awards/cultivation.jpg
+  url: http://temiac.ee.ntu.edu.tw/news/news.php?Sn=429
   image: cultivation.jpg
   description: "The scholarship aims to encourage college students to pursue research and career developments in electromagnetic fields by rewarding the students of outstanding performances in
 related academic activities. We are awarded US$ 3,300 scholarship at the banquet of Taiwan Tele- communications Annual Symposium."
