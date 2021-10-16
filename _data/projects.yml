@@ -16,7 +16,7 @@
   imgLink: https://shih-ming.github.io/mypage/images/projects/ArrayEd.JPG
   video: https://youtu.be/T_iX2lC9Xsc
   image: ArrayEd.JPG
-  description: "I hosted a <b>phased array training session</b> for master's students in my lab. Within five weeks, each group of trainees can realize an Arduino-controlled transmitting phased array and observe the array's beam pattern from the blinking LEDs on receivers."
+  description: "I hosted a <b>phased array training session</b> for master's students in my lab. Within five weeks, each group of trainees can implement an Arduino-controlled transmitting phased array and observe the array's beam pattern from the blinking LEDs on receivers."
   highlight: 3
 
 - title: Low-Power UWB LNA
