@@ -9,16 +9,18 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I'm a master's student at [Advanced Antenna Laboratory](https://shihyuansite.wordpress.com/) at [National Taiwan University](https://www.ntu.edu.tw/english/) and a student research assistant at [Academia Sinica Institute of Astronomy and Astrophysics](https://www.asiaa.sinica.edu.tw/people/cv.php?i=smhuang). I am interested in developing novel applications of microwave engineering and specialized at system integration of microwave and baseband circuits.
+I'm an M.S. student at [Advanced Antenna Laboratory](https://shihyuansite.wordpress.com/) at [National Taiwan University](https://www.ntu.edu.tw/english/) and a student research assistant at [Academia Sinica Institute of Astronomy and Astrophysics](https://www.asiaa.sinica.edu.tw/people/cv.php?i=smhuang). I am interested in developing novel applications of microwave engineering and specialized at system integration of microwave, baseband circuits, and embedded systems.
 
-My current research focus is "Spatially-Reconfigurable UAV-Based Phased Arrays." The project is sponsored by  [Ministry of Science and Technology](https://www.most.gov.tw/?l=en) (MOST) in Taiwan, and led by my advisor, Prof. [Shih-Yuan Chen](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=942017). In this project, I am responsible for system integration and proposal drafting to MOST.
+My current research topic is <b>Spatially Reconfigurable UAV-Based Phased Arrays</b>. The project is sponsored by  [Ministry of Science and Technology](https://www.most.gov.tw/?l=en) (MOST) in Taiwan, and led by my advisor, Prof. [Shih-Yuan Chen](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=942017). In this project, I am responsible for system integration and proposal drafting to MOST.
 </div>
 
 <div class="me" markdown="1">
 <picture>
-  <img
-    src= '/mypage/images/ShihMing.jpg'
-    alt='Shih-Ming Huang'>
+  <a href="/mypage/images/ShihMing.jpg">
+    <img
+      src= '/mypage/images/ShihMing.jpg'
+      alt='Shih-Ming Huang'>
+  </a>
 </picture>
 
 {:.no-list}

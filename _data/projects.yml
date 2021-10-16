@@ -1,4 +1,4 @@
-- title: Spatially-Reconfigurable Phased Arrays (SRPArray)
+- title: Spatially Reconfigurable Phased Arrays (SRPArray)
   imgLink: https://shih-ming.github.io/mypage/images/projects/DroneArray.JPG
   image: DroneArray.JPG
   description: "An SRPArray is formed by antenna elements separately carried by multiple unmanned aerial vechicles (UAVs). The reconfigurable spatial arrangment of antenna elements is achieved by <b>high-speed and highly accurate phase synchronization</b> among UAVs, by which an SRPArray can potentially have better deployment flexibility and performance."
