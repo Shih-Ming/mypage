@@ -9,10 +9,65 @@ title: CV
 <h1><a href="{{ absolute_url }}/">Shih-Ming Huang</a></h1>
 
 <small class="live-link">Last updated in <time datetime="{{ site.time }}">{{ site.time | date: '%B %Y'}}</time>. Get the latest version at <a href="{{ '/cv' | absolute_url }}">www.domoritz.de/cv</a>.</small>
-
 <div class="header-columns">
   M.S. Student at<b>&nbsp<a href="https://www.ntu.edu.tw/english/">National Taiwan University</a>&nbsp</b>and Student Research Assistant at<b>&nbsp<a href="https://www.asiaa.sinica.edu.tw/">Academia Sinica</a></b>
 </div>
+
+<h2>Research Interest</h2>
+
+<p>
+&#x2022 Phased Arrays
+&#x2022 Metamaterials
+&#x2022 Monolithic Microwave Integrated Circuits<br>
+&#x2022 Wireless Power Transfer 
+&#x2022 RF-Circuits for Biological or Astronomical Applications
+</p>
+
+<h2>Education & Position</h2>
+<article>
+  <div class="date-container">
+    <span class="date"> 2016 - Now </span>
+    <h3>National Taiwan University</h3>
+  </div>
+  <p>
+    <span>B.S. in Electrical Engineering and M.S. in Communication Engineering</span>
+    <br>
+    <span> 
+      &#x2800 - Advisor: Dr. Shih-Yuan Chen <br>
+      &#x2800 -	 Research focus: spatially reconfigurable phased array <br>
+      &#x2800 -	 Cumulative GPA: 3.70/4.30 (B.S.); 4.30/4.30 (M.S.) <br>
+    </span>
+  </p>
+</article>
+<article>
+  <div class="date-container">
+    <span class="date"> 2020 - Now </span>
+    <h3>Institute of Astronomy and Astrophysics, Academia Sinica, Taiwan</h3>
+  </div>
+  <p>
+    <span>Student Research Assistant</span>
+    <br>
+    <span> 
+      &#x2800 - Advisor: Dr. Ming-Tang Chen and Mr. Yau-De Huang <br>
+      &#x2800 -	Research focus: 4-12.4 GHz cryogenic quadrature hybrid coupler<br>
+    </span>
+  </p>
+</article>
+
+<!-- {% for ed in site.data.education %}
+<article>
+  <div class="date-container">
+    <span class="date">{{ ed.years | replace: "-", "–" }}</span>
+    <strong class="fill">{{ ed.degree }}, {{ ed.university }}</strong>
+    <span class="right">{{ ed.location }}</span>
+  </div>
+  <p>
+    {% for des in ed.description %}
+      <span>{{ des | markdownify | remove: '<p>' | remove: '</p>' }}</span>{% unless forloop.last %}<br/>{% endunless %}
+    {% endfor %}
+  </p>
+</article>
+{% endfor %} -->
 
 <h2>Research Experience</h2>
 
@@ -23,7 +78,7 @@ title: CV
 <div>&#x2800 A broad-side coupled quadrature hybrid with &#xB1 0.4 dB amplitude and &#xB1 4&#x00B0 phase imbalance </div>
 <h3>&#x2022 Beam Visualization System for Phased Array Education - <i>System Designer</i></h3>
 <div>&#x2800 An educational platform allowing students to easily implement and observe their phased arrays</div>
-<h3>&#x2022 A dual-band wearable open-sourced radar system - <i>System Designer</i></h3>
+<h3>&#x2022 A Dual-Band Wearable Open-Sourced Radar System - <i>System Designer</i></h3>
 <div>&#x2800 An FMCW radar using 5.8-GHz and 915-MHz ISM band controlled by Raspberry Pi</div> 
 </p>
 
@@ -105,6 +160,9 @@ title: CV
     <strong class="fill">{{ award.title }}</strong>
     <!-- <span class="right">{{ award.sponsor }}</span> -->
   </div>
+  <div>
+    {{ award.brief }}
+  </div>
 </article>
 {% endfor %}
 
@@ -120,6 +178,17 @@ title: CV
 <div>&#x2800 C++, Python, Matlab, HTML, and CSS</div>
 <h3>&#x2022 3D Modeler</h3>
 <div>&#x2800 Solidworks and Fusion 360</div>
+
+<h2>Leadership</h2>
+{% for act in site.data.activities %}
+<article>
+  <div class="date-container">
+    <span class="date">{{ act.year }}</span>
+    <strong class="fill"><a href="{{ act.website }}">{{ act.title }}</a></strong>
+    <I>{{ act.position }}</I>
+  </div>
+</article>
+{% endfor %}
 
 <h2>Relevant Courses</h2>
   <h3>Electromagnetics</h3>
@@ -146,43 +215,6 @@ title: CV
       &#x2022 Patent Opposition and Infringement (A+)
     </div>
 
-<h2>Research Interest</h2>
-
-<p>
-&#x2022 Phased Arrays
-&#x2022 Metamaterials
-&#x2022 Monolithic Microwave Integrated Circuits<br>
-&#x2022 Wireless Power Transfer 
-&#x2022 RF-Circuits for Biological or Astronomical Applications
-</p>
-
-<h2>Leadership</h2>
-{% for act in site.data.activities %}
-<article>
-  <div class="date-container">
-    <span class="date">{{ act.year }}</span>
-    <strong class="fill"><a href="{{ act.website }}">{{ act.title }}</a></strong>
-    <I>{{ act.position }}</I>
-  </div>
-</article>
-{% endfor %}
-
-<h2>Education</h2>
-
-{% for ed in site.data.education %}
-<article>
-  <div class="date-container">
-    <span class="date">{{ ed.years | replace: "-", "–" }}</span>
-    <strong class="fill">{{ ed.degree }}, {{ ed.university }}</strong>
-    <span class="right">{{ ed.location }}</span>
-  </div>
-  <p>
-    {% for des in ed.description %}
-      <span>{{ des | markdownify | remove: '<p>' | remove: '</p>' }}</span>{% unless forloop.last %}<br/>{% endunless %}
-    {% endfor %}
-  </p>
-</article>
-{% endfor %}
 
 <h2>Teaching Assistant</h2>
 
