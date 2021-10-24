@@ -20,7 +20,11 @@
     page-break-after: avoid;
   }
 
-  h1, h2, .pub-type {
+  h1{
+    color: $dark-text-color;
+  }
+
+  h2, .pub-type {
     color: $brand-color;
     margin: 1rem 0 .2rem 0;
   }
@@ -39,6 +43,21 @@
   h2 a {
     font-size: 0.7em;
     color: $grey-color;
+  }
+  
+  .button {
+    font-size:15px;
+    color: $brand-color;
+    padding: 3px 6px;
+    border-radius: 5px;
+    border: 2px solid lighten($brand-color, 20%);
+
+    &:hover {
+      font-size:15px;
+      opacity: 1;
+      text-decoration: none;
+      background-color: lighten($brand-color, 50%);
+    }
   }
 
   .live-link {
