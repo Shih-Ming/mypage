@@ -4,6 +4,7 @@
   url: https://ieeeaps.org/call-for-submissions-2020-ieee-ap-s-student-design-contest/511
   video: https://www.youtube.com/watch?v=o_KWvV_8DFA&list=PLZFy8hk6ZJI6j20ShilXSt_TXPlJsTXoi&index=3
   image: APS_Contest.png
+  certificate: https://shih-ming.github.io/mypage/certificate/Certificate_2020_IEEE_AP-S_Student_Design_Contest.pdf
   description: "The topic of 2020 IEEE AP-S Student Design Contest is to propose a setup that can demonstrate properties of radar system in a pratical application and provide educational value.
   We proposed a <b>dual-band wearable FMCW radar system</b> based on open source platform. The dual-band properties has the potential of power-saving while maintaining high range resolution around the user,
   and the open-source environment provides easy access for users to modify and test the radar signals."
