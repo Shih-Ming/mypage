@@ -15,6 +15,7 @@
   imgLink: https://shih-ming.github.io/mypage/images/awards/outstanding.jpg
   url: https://advisory.ntu.edu.tw/CMS/ScholarshipDetail?id=6484
   announce: https://advisory.ntu.edu.tw/CMS/GetScholarshipFile/3511
+  certificate: https://shih-ming.github.io/mypage/certificate/Certificate_Outstanding.pdf
   image: outstanding.jpg
   description: "The scholarship is for students who have won the honor for National Taiwan University (NTU) by outstanding achievements in the academy or contest. The winner team can 
   can receive up to US$ 6,600 scholarship and a medal from the president of NTU."
@@ -41,5 +42,6 @@ related academic activities. We are awarded with US$ 3,300 scholarship at the ba
 
 - title: Dean's List Award of National Taiwan University
   year: 2021
+  certificate: https://shih-ming.github.io/mypage/certificate/Certificate_Deans_List.pdf
   description: "The Dean's List award is bestowed to the top 5% students of the department in each semester."
   brief: "Award for the top 5% students of the department in each semester"
