@@ -28,3 +28,5 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-mentions
+
+google_analytics: UA-302539665
