@@ -4,12 +4,6 @@
   description: "An SRPArray is formed by antenna elements separately carried by multiple unmanned aerial vechicles (UAVs). The reconfigurable spatial arrangment of antenna elements is achieved by <b>high-speed and highly accurate phase synchronization</b> among UAVs, by which an SRPArray can potentially have better deployment flexibility and performance."
   highlight: 1
 
-- title: Spatially Reconfigurable Phased Arrays (SRPArray)
-  imgLink: https://shih-ming.github.io/mypage/images/projects/DroneArray.JPG
-  image: DroneArray.JPG
-  description: "An SRPArray is formed by antenna elements separately carried by multiple unmanned aerial vechicles (UAVs). The reconfigurable spatial arrangment of antenna elements is achieved by <b>high-speed and highly accurate phase synchronization</b> among UAVs, by which an SRPArray can potentially have better deployment flexibility and performance."
-  highlight: 1
-
 - title: Trojan Radar
   imgLink: https://shih-ming.github.io/mypage/images/awards/trojan.jpg
   url: https://ieeeaps.org/call-for-submissions-2020-ieee-ap-s-student-design-contest/511
