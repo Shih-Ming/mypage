@@ -9,9 +9,9 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I'm a PhD candidate at [Digital Microwave Lab](https://www.dmlab.ee.ucla.edu/) in University of California, Los Angeles. I am interested in antnena design, phased array design, and radio-frequency systems.
+I'm a PhD candidate at [Digital Microwave Lab](https://www.dmlab.ee.ucla.edu/) in University of California, Los Angeles (UCLA). I am interested in antnena design, phased array design, and radio-frequency systems.
 
-My current research topic is <b>Ferromagnetic Resonance Enhanced Electrically Small Antenna</b>. The project is sponsored by [Intelligence Advanced Research Projects Activity (IARPA)](https://www.iarpa.gov/research-programs/equal-p), and led by my advisor, Prof. [Yuanxun Ethan Wang](https://www.dmlab.ee.ucla.edu/people). In this project, I am responsible for the antenna design, measurement, and system integration.
+My current research topic is <b>Ferromagnetic Resonance Enhanced Electrically Small Antenna</b>. The project uses the resonance of electron spin precession to create very small antennas with high radiation efficiency and frequency tunability.This project is sponsored by [Intelligence Advanced Research Projects Activity (IARPA)](https://www.iarpa.gov/research-programs/equal-p), and led by my advisor, Prof. [Yuanxun Ethan Wang](https://www.dmlab.ee.ucla.edu/people). In this project, I am responsible for the antenna design, measurement, and system integration.
 </div>
 
 <div class="me" markdown="1">

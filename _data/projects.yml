@@ -1,7 +1,8 @@
-- title: Spatially Reconfigurable Phased Arrays (SRPArray)
-  imgLink: https://shih-ming.github.io/mypage/images/projects/DroneArray.JPG
-  image: DroneArray.JPG
-  description: "An SRPArray is formed by antenna elements separately carried by multiple unmanned aerial vechicles (UAVs). The reconfigurable spatial arrangment of antenna elements is achieved by <b>high-speed and highly accurate phase synchronization</b> among UAVs, by which an SRPArray can potentially have better deployment flexibility and performance."
+- title: Ferromagnetic Resonance Enhanced Electrically Small Antenna
+  imgLink: https://shih-ming.github.io/mypage/images/projects/FMR_ESA.JPG
+  image: FMR_ESA.JPG
+  description: "This project presents an electrically small antenna (ka = 0.2) that leverages on the circularly polarized electron spin precessions for radiation. The antenna design attains a measured realized gain of -4.5 dB and an axial ratio of 2.8 dB at 3.360 GHz. The resonance frequency is electronically tunable by the modulation of applied magnetic field"
+  url: https://ieeexplore.ieee.org/document/10686108
   highlight: 1
 
 - title: Trojan Radar
@@ -13,11 +14,17 @@
   highlight: 2
 
 - title: Phased Array Education (ArrayEd)
-  imgLink: https://shih-ming.github.io/mypage/images/projects/ArrayEd.JPG
+  imgLink: https://shih-ming.github.io/mypage/images/projects/ArrayEd.jpg
   video: https://youtu.be/T_iX2lC9Xsc
-  image: ArrayEd.JPG
+  image: ArrayEd.jpg
   description: "I hosted a <b>phased array training session</b> for master's students in my lab. Within five weeks, each group of trainees can implement an Arduino-controlled transmitting phased array and observe the array's beam pattern from the blinking LEDs on receivers."
   highlight: 3
+
+- title: Spatially Reconfigurable Phased Arrays (SRPArray)
+  imgLink: https://shih-ming.github.io/mypage/images/projects/DroneArray.JPG
+  image: DroneArray.JPG
+  description: "An SRPArray is formed by antenna elements separately carried by multiple unmanned aerial vechicles (UAVs). The reconfigurable spatial arrangment of antenna elements is achieved by <b>high-speed and highly accurate phase synchronization</b> among UAVs, by which an SRPArray can potentially have better deployment flexibility and performance."
+
 
 - title: Low-Power UWB LNA
   imgLink: https://shih-ming.github.io/mypage/images/projects/UWB_LNA.jpg
