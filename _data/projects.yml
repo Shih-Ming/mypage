@@ -14,9 +14,9 @@
   highlight: 2
 
 - title: Phased Array Education (ArrayEd)
-  imgLink: https://shih-ming.github.io/mypage/images/projects/ArrayEd.JPG
+  imgLink: https://shih-ming.github.io/mypage/images/projects/ArrayEd_Photo.jpg
   video: https://youtu.be/T_iX2lC9Xsc
-  image: ArrayEd.JPG
+  image: ArrayEd_Photo.jpg
   description: "I hosted a <b>phased array training session</b> for master's students in my lab. Within five weeks, each group of trainees can implement an Arduino-controlled transmitting phased array and observe the array's beam pattern from the blinking LEDs on receivers."
   highlight: 3
 
