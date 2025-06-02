@@ -1,6 +1,6 @@
 - title: Ferromagnetic Resonance Enhanced Electrically Small Antenna
-  imgLink: https://shih-ming.github.io/mypage/images/projects/FMR_ESA.JPG
-  image: FMR_ESA.JPG
+  imgLink: https://shih-ming.github.io/mypage/images/projects/FMR_ESA.jpg
+  image: FMR_ESA.jpg
   description: "This project presents an electrically small antenna (ka = 0.2) that leverages on the circularly polarized electron spin precessions for radiation. The antenna design attains a measured realized gain of -4.5 dB and an axial ratio of 2.8 dB at 3.360 GHz. The resonance frequency is electronically tunable by the modulation of applied magnetic field"
   url: https://ieeexplore.ieee.org/document/10686108
   highlight: 1
@@ -14,9 +14,9 @@
   highlight: 2
 
 - title: Phased Array Education (ArrayEd)
-  imgLink: https://shih-ming.github.io/mypage/images/projects/ArrayEd.jpg
+  imgLink: https://shih-ming.github.io/mypage/images/projects/ArrayEd.JPG
   video: https://youtu.be/T_iX2lC9Xsc
-  image: ArrayEd.jpg
+  image: ArrayEd.JPG
   description: "I hosted a <b>phased array training session</b> for master's students in my lab. Within five weeks, each group of trainees can implement an Arduino-controlled transmitting phased array and observe the array's beam pattern from the blinking LEDs on receivers."
   highlight: 3
 
